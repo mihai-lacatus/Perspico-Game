@@ -1,0 +1,49 @@
+D:\Perspico\Perspico\bin\Debug\Perspico.exe.config
+D:\Perspico\Perspico\bin\Debug\Perspico.exe
+D:\Perspico\Perspico\bin\Debug\Perspico.pdb
+D:\Perspico\Perspico\obj\Debug\Perspico.csprojResolveAssemblyReference.cache
+D:\Perspico\Perspico\obj\Debug\Perspico.Form1.resources
+D:\Perspico\Perspico\obj\Debug\Perspico.Properties.Resources.resources
+D:\Perspico\Perspico\obj\Debug\Perspico.csproj.GenerateResource.Cache
+D:\Perspico\Perspico\obj\Debug\Perspico.exe
+D:\Perspico\Perspico\obj\Debug\Perspico.pdb
+D:\Perspico\Perspico\obj\Debug\Perspico.Form2.resources
+D:\Perspico\Perspico\obj\Debug\Perspico.Form3.resources
+D:\Perspico\Perspico\obj\Debug\Perspico.Form4.resources
+F:\Perspico\Perspico\bin\Debug\Perspico.exe.config
+F:\Perspico\Perspico\obj\Debug\Perspico.exe
+F:\Perspico\Perspico\obj\Debug\Perspico.pdb
+F:\Perspico\Perspico\bin\Debug\Perspico.exe
+F:\Perspico\Perspico\bin\Debug\Perspico.pdb
+F:\Perspico\Perspico\obj\Debug\Perspico.Form1.resources
+F:\Perspico\Perspico\obj\Debug\Perspico.Form2.resources
+F:\Perspico\Perspico\obj\Debug\Perspico.Form3.resources
+F:\Perspico\Perspico\obj\Debug\Perspico.Form4.resources
+F:\Perspico\Perspico\obj\Debug\Perspico.Properties.Resources.resources
+F:\Perspico\Perspico\obj\Debug\Perspico.csproj.GenerateResource.Cache
+F:\Perspico\Perspico\obj\Debug\Perspico.csprojAssemblyReference.cache
+F:\Perspico\Perspico\obj\Debug\Perspico.csproj.CoreCompileInputs.cache
+F:\ALE MELE\Perspico\Perspico\bin\Debug\Perspico.exe.config
+F:\ALE MELE\Perspico\Perspico\bin\Debug\Perspico.exe
+F:\ALE MELE\Perspico\Perspico\bin\Debug\Perspico.pdb
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.csprojAssemblyReference.cache
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.Form1.resources
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.Form2.resources
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.Form3.resources
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.Form4.resources
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.Properties.Resources.resources
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.csproj.GenerateResource.cache
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.exe
+F:\ALE MELE\Perspico\Perspico\obj\Debug\Perspico.pdb
+F:\ALE MELE\Munca personala\Perspico\Perspico\bin\Debug\Perspico.exe.config
+F:\ALE MELE\Munca personala\Perspico\Perspico\bin\Debug\Perspico.exe
+F:\ALE MELE\Munca personala\Perspico\Perspico\bin\Debug\Perspico.pdb
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.csprojAssemblyReference.cache
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.Form1.resources
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.Form2.resources
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.Form3.resources
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.Form4.resources
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.Properties.Resources.resources
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.csproj.GenerateResource.cache
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.exe
+F:\ALE MELE\Munca personala\Perspico\Perspico\obj\Debug\Perspico.pdb
